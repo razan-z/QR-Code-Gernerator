@@ -1,5 +1,7 @@
 # QR Code Generator Web App
 
+🌐 **Live Website**: [https://razan-z.github.io/QR-Code-Gernerator/](https://razan-z.github.io/QR-Code-Gernerator/)
+
 <img width="959" alt="Image" src="https://github.com/user-attachments/assets/5bf5645d-d4c9-4ab4-ab71-a9ce88ca9087" />
 
 A simple web application that generates QR codes from URLs with download functionality.
